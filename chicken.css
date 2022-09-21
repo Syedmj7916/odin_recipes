@@ -1,0 +1,21 @@
+body{
+    background-color: #e2aaaa;
+    margin: 30px;
+    padding: 20px;
+    border: 10px solid black;
+}
+a{
+    font-size: 30px;
+    color: darkblue;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: cadetblue;
+    padding: 10px;
+    border: 5px solid blueviolet;
+}
+.a1{
+    margin: 20px;
+}
